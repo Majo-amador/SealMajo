@@ -5,8 +5,18 @@ description: |
 output_dir: "_site"
 navbar:
   right:
-    - text: "Home"
+    - text: "Hello"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "CV"
+      href: cv.html
+    - text: "Science"
+      href: science.html
+    - text: "Minka"
+      href: minka.html
+
 output: distill::distill_article
+ theme:
+      bg: "#202123"
+      fg: "#B8BCC2"
+      primary: "#EA80FC"
+      base_font: !expr bslib::font_google("Grandstander")

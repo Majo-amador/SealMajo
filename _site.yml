@@ -1,0 +1,22 @@
+name: "SealMajo"
+title: "Majo's website"
+description: |
+  My Website
+output_dir: "_site"
+
+navbar:
+  right:
+    - text: "Science"
+      menu:
+      - text: "Projects"
+        href: Projects.html
+      - text: "CV"
+        href: CV.html
+      - text: "Papers"
+        href: Papers.html
+    - text: "Minka"
+      href: minka.html
+
+output: distill::distill_article
+
+

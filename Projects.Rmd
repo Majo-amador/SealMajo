@@ -1,0 +1,23 @@
+---
+title: "Projects"
+output: github_document
+---
+Abundance and food habits from the four pinniped’s species inhabits in Mexico. 2012-2017.
+
+Population study and trophic ecology from the Guadalupe fur Seal, Arctocephalus townsendi. 2014-2016.
+
+Research (population and trophic ecology) cruise over the 13 California sea lion rookeries from the Gulf of California in 2016.
+
+Foraging ecology and population dynamic of Guadalupe fur seals from Guadalupe Island 2017 — 2020.
+
+
+
+
+
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+

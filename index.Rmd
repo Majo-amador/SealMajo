@@ -3,14 +3,11 @@ title: "Majo Amador"
 
 description: |
   Science, Nature and bikinis!
-  
 
 site: distill::distill_website
-
-# knitr::include_graphics(path="files/foto_principal.jpg")
-
 ---
 Hi! I am a marine biologist specilized in marine mammals. I have study mexican pinnipeds for six years and I want to share some of my adventures and work during those years with you. Also, I am the founder of Minka swimwear, a sustainable brand that share the love to the ocean and the importance to take care of it. 
+
 
 
 
@@ -20,5 +17,9 @@ knitr::opts_chunk$set(echo = FALSE)
 # Learn more about creating websites with Distill at:
 # https://rstudio.github.io/distill/website.html
 
+```
+
+```{r}
+knitr::include_graphics(path="img/foto_principal.jpg")
 ```
 

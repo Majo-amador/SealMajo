@@ -4,7 +4,10 @@ title: "Majo Amador"
 description: |
   Science, Nature and bikinis!
 
-site: distill::distill_website
+output: 
+  distill::distill_article:
+    toc: true
+site: distill::distill_website    
 ---
 Hi! I am a marine biologist specilized in marine mammals. I have study mexican pinnipeds for six years and I want to share some of my adventures and work during those years with you. Also, I am the founder of Minka swimwear, a sustainable brand that share the love to the ocean and the importance to take care of it. 
 

@@ -1,6 +1,6 @@
 ---
 title: "Papers"
-output: github_document
+description: "Academic articles publish"
 ---
 
 Amador-Capitanachi M.J., Moreno-Sáncez X.G., Juárez-Ruíz A., Ferretto G., & Elorriaga-Verplancken F.R. (2017) Trophic Variation Between the Two existing Guadalupe Fur Seal colonies on Guadalupe Island and The San Benito Archipelago, Mexico. Aquat Mamm., 43(1), 14-25. DOI: 10.1578/AM.43.1.2017.14 

@@ -1,6 +1,6 @@
 ---
 title: "MINKA"
-output: github_document
+
 ---
 
 ```{r setup, include=FALSE}
